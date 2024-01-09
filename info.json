@@ -1,5 +1,223 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "-zMxBqMIquQ",
+            "name": "Alton Ellis [25th Silver Jubilee \uff02Side A\uff02] [-zMxBqMIquQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Alton Ellis [25th Silver Jubilee \uff02Side A\uff02] [-zMxBqMIquQ].mp4",
+            "size": 52.459798,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Alton Ellis [25th Silver Jubilee \uff02Side A\uff02] [-zMxBqMIquQ].mp4"
+        },
+        {
+            "id": "rl1pj6-FgRo",
+            "name": "Rex Abe - I Can Feel It ( 12 Disco Mix Edit ) HQ Video Mix By Sergio Luna [rl1pj6-FgRo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Rex Abe - I Can Feel It ( 12 Disco Mix Edit ) HQ Video Mix By Sergio Luna [rl1pj6-FgRo].mp4",
+            "size": 18.139893999999998,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Rex Abe - I Can Feel It ( 12 Disco Mix Edit ) HQ Video Mix By Sergio Luna [rl1pj6-FgRo].mp4"
+        },
+        {
+            "id": "zTbvLJXIOfY",
+            "name": "El poeta - Atahualpa Yupanqui [zTbvLJXIOfY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/El poeta - Atahualpa Yupanqui [zTbvLJXIOfY].mp4",
+            "size": 5.962441,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/El poeta - Atahualpa Yupanqui [zTbvLJXIOfY].mp4"
+        },
+        {
+            "id": "m8QbRRGTd34",
+            "name": "FLASHBACK OF THE GENIUS - special disco mixer - USA - 1981 - sideB [m8QbRRGTd34].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/FLASHBACK OF THE GENIUS - special disco mixer - USA - 1981 - sideB [m8QbRRGTd34].mp4",
+            "size": 21.831761,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/FLASHBACK OF THE GENIUS - special disco mixer - USA - 1981 - sideB [m8QbRRGTd34].mp4"
+        },
+        {
+            "id": "sSeJtcJ-uOA",
+            "name": "Maurice Ravel - Sur l'herbe [With score]-sSeJtcJ-uOA.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Maurice Ravel - Sur l'herbe [With score]-sSeJtcJ-uOA.mp4",
+            "size": 1.238278,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Maurice Ravel - Sur l'herbe [With score]-sSeJtcJ-uOA.mp4"
+        },
+        {
+            "id": "0qsN-cczU0k",
+            "name": "Bill \u0332E\u0332v\u0332a\u0332n\u0332s\u0332 Q\u0332u\u0332i\u0332n\u0332t\u0332e\u0332t\u0332 \u2013\u0332 I\u0332n\u0332t\u0332e\u0332r\u0332p\u0332l\u0332a\u0332y\u0332 \u0332(\u03321\u03329\u03326\u03322\u0332)\u0332 [0qsN-cczU0k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Bill \u0332E\u0332v\u0332a\u0332n\u0332s\u0332 Q\u0332u\u0332i\u0332n\u0332t\u0332e\u0332t\u0332 \u2013\u0332 I\u0332n\u0332t\u0332e\u0332r\u0332p\u0332l\u0332a\u0332y\u0332 \u0332(\u03321\u03329\u03326\u03322\u0332)\u0332 [0qsN-cczU0k].mp4",
+            "size": 37.195423999999996,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Bill \u0332E\u0332v\u0332a\u0332n\u0332s\u0332 Q\u0332u\u0332i\u0332n\u0332t\u0332e\u0332t\u0332 \u2013\u0332 I\u0332n\u0332t\u0332e\u0332r\u0332p\u0332l\u0332a\u0332y\u0332 \u0332(\u03321\u03329\u03326\u03322\u0332)\u0332 [0qsN-cczU0k].mp4"
+        },
+        {
+            "id": "iyFqUOxPT-I",
+            "name": "Fela Kuti & Roy Ayers - Africa, Center of the World [iyFqUOxPT-I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Fela Kuti & Roy Ayers - Africa, Center of the World [iyFqUOxPT-I].mp4",
+            "size": 21.847261,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Fela Kuti & Roy Ayers - Africa, Center of the World [iyFqUOxPT-I].mp4"
+        },
+        {
+            "id": "uULZQZTmiCg",
+            "name": "Franz Schreker\uff1a Scherzo per orchestra d'archi (1908) [uULZQZTmiCg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Franz Schreker\uff1a Scherzo per orchestra d'archi (1908) [uULZQZTmiCg].mp4",
+            "size": 18.673942999999998,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Franz Schreker\uff1a Scherzo per orchestra d'archi (1908) [uULZQZTmiCg].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM] - copy (1).mp4",
+            "size": 80.129761,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Beethoven EGMONT Op. 84 Incidental Music _ Claudio Abbado, Cheryl Studer, Bruno Ganz [G7J0SvmhScM] - copy (1).mp4"
+        },
+        {
+            "id": "dqfSuQ-PALE",
+            "name": "Extremoduro - Rock transgresivo [Maqueta 1989] (Completo) [dqfSuQ-PALE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Extremoduro - Rock transgresivo [Maqueta 1989] (Completo) [dqfSuQ-PALE].mp4",
+            "size": 29.099521,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Extremoduro - Rock transgresivo [Maqueta 1989] (Completo) [dqfSuQ-PALE].mp4"
+        },
+        {
+            "id": "GJrI16sybQk",
+            "name": "Oraci\u00f3n de San Francisco  PADRE JOS\u00c9 MOJICA \u29f8  1970 video \u29f8 ORACI\u00d3N SIMPLE [GJrI16sybQk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Oraci\u00f3n de San Francisco  PADRE JOS\u00c9 MOJICA \u29f8  1970 video \u29f8 ORACI\u00d3N SIMPLE [GJrI16sybQk].mp4",
+            "size": 9.685082999999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Oraci\u00f3n de San Francisco  PADRE JOS\u00c9 MOJICA \u29f8  1970 video \u29f8 ORACI\u00d3N SIMPLE [GJrI16sybQk].mp4"
+        },
+        {
+            "id": "KaUXnTbs-4Y",
+            "name": "Nicky Thomas - What Love Is (Session At Chalk Farm) [KaUXnTbs-4Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Nicky Thomas - What Love Is (Session At Chalk Farm) [KaUXnTbs-4Y].mp4",
+            "size": 7.878863999999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Nicky Thomas - What Love Is (Session At Chalk Farm) [KaUXnTbs-4Y].mp4"
+        },
+        {
+            "id": "FOvGBfS4xww",
+            "name": "Bola de Nieve   Un momento [FOvGBfS4xww].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Bola de Nieve   Un momento [FOvGBfS4xww].mp4",
+            "size": 7.755631999999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Bola de Nieve   Un momento [FOvGBfS4xww].mp4"
+        },
+        {
+            "id": "1wO_dCDehbQ",
+            "name": "A String of Pearls-1wO_dCDehbQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/A String of Pearls-1wO_dCDehbQ.mp4",
+            "size": 3.8612219999999997,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/A String of Pearls-1wO_dCDehbQ.mp4"
+        },
+        {
+            "id": "PbpW5ZdkkPs",
+            "name": "EL PU\u00d1AO DE ROSAS - RUPERTO CHAP\u00cd. [PbpW5ZdkkPs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/EL PU\u00d1AO DE ROSAS - RUPERTO CHAP\u00cd. [PbpW5ZdkkPs].mp4",
+            "size": 38.386328,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/EL PU\u00d1AO DE ROSAS - RUPERTO CHAP\u00cd. [PbpW5ZdkkPs].mp4"
+        },
+        {
+            "id": "eIh2If8dJR4",
+            "name": "Fela Kuti (Nigeria, 1971)  - Shakara (Full Album) [eIh2If8dJR4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Fela Kuti (Nigeria, 1971)  - Shakara (Full Album) [eIh2If8dJR4].mp4",
+            "size": 33.732088,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Fela Kuti (Nigeria, 1971)  - Shakara (Full Album) [eIh2If8dJR4].mp4"
+        },
+        {
+            "id": "vRHhV-oZ0nE",
+            "name": "Galvanica - Night Lights In Japan (Italo-Disco) [vRHhV-oZ0nE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Galvanica - Night Lights In Japan (Italo-Disco) [vRHhV-oZ0nE].mp4",
+            "size": 14.227252,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Galvanica - Night Lights In Japan (Italo-Disco) [vRHhV-oZ0nE].mp4"
+        },
+        {
+            "id": "p7dyXYG_zNw",
+            "name": "Timex Social Club - Rumors TOTP 1986 (HQ) [p7dyXYG_zNw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Timex Social Club - Rumors TOTP 1986 (HQ) [p7dyXYG_zNw].mp4",
+            "size": 14.810051999999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Timex Social Club - Rumors TOTP 1986 (HQ) [p7dyXYG_zNw].mp4"
+        },
+        {
+            "id": "OoFA0Gy741A",
+            "name": "Jacinto Cenobio, Amparo Ochoa [OoFA0Gy741A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Jacinto Cenobio, Amparo Ochoa [OoFA0Gy741A].mp4",
+            "size": 10.523373,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Jacinto Cenobio, Amparo Ochoa [OoFA0Gy741A].mp4"
+        },
+        {
+            "id": "NGf7imS1xwc",
+            "name": "Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 1 [NGf7imS1xwc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 1 [NGf7imS1xwc].mp4",
+            "size": 26.888821999999998,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Django Reinhardt \uff02Mon Fr\u00e8re\uff02 Full Album - Face 1 [NGf7imS1xwc].mp4"
+        },
+        {
+            "id": "06eUEJ8FLiU",
+            "name": "Christina M. - Mirror Of My Soul [06eUEJ8FLiU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Christina M. - Mirror Of My Soul [06eUEJ8FLiU].mp4",
+            "size": 15.012075,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Christina M. - Mirror Of My Soul [06eUEJ8FLiU].mp4"
+        },
+        {
+            "id": "0k1HCsQW028",
+            "name": "Malcolm McLaren - D'ya Like Scratchin [0k1HCsQW028].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Malcolm McLaren - D'ya Like Scratchin [0k1HCsQW028].mp4",
+            "size": 12.396132,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Malcolm McLaren - D'ya Like Scratchin [0k1HCsQW028].mp4"
+        },
+        {
+            "id": "wr6vSdhxJIE",
+            "name": "Visuri de Aur (Golden Dreams), Waltz - Iosif Ivanovici-wr6vSdhxJIE.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Visuri de Aur (Golden Dreams), Waltz - Iosif Ivanovici-wr6vSdhxJIE.mp4",
+            "size": 14.968848,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Visuri de Aur (Golden Dreams), Waltz - Iosif Ivanovici-wr6vSdhxJIE.mp4"
+        },
+        {
+            "id": "PuzRbxU1X1Q",
+            "name": "Beethoven- Creatures of the Prometheus [PuzRbxU1X1Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Beethoven- Creatures of the Prometheus [PuzRbxU1X1Q].mp4",
+            "size": 60.149207999999994,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Beethoven- Creatures of the Prometheus [PuzRbxU1X1Q].mp4"
+        },
+        {
+            "id": "a7raSBFBCRM",
+            "name": "Brazilian Guitar Quartet plays Villa-Lobos Bachianas brasileiras No. 1 [a7raSBFBCRM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Brazilian Guitar Quartet plays Villa-Lobos Bachianas brasileiras No. 1 [a7raSBFBCRM].mp4",
+            "size": 20.110284,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Brazilian Guitar Quartet plays Villa-Lobos Bachianas brasileiras No. 1 [a7raSBFBCRM].mp4"
+        },
+        {
+            "id": "04JzNEqBpSo",
+            "name": "Ferdinando Paer  (1771-1839) - Orgelkonzert  in D-Dur [04JzNEqBpSo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Ferdinando Paer  (1771-1839) - Orgelkonzert  in D-Dur [04JzNEqBpSo].mp4",
+            "size": 85.994079,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Ferdinando Paer  (1771-1839) - Orgelkonzert  in D-Dur [04JzNEqBpSo].mp4"
+        },
+        {
+            "id": "ilyTv978X6w",
+            "name": "Henry Litolff - Concerto Symphonique No. 4, Op. 102 (1852) [ilyTv978X6w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Henry Litolff - Concerto Symphonique No. 4, Op. 102 (1852) [ilyTv978X6w].mp4",
+            "size": 68.32957499999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Henry Litolff - Concerto Symphonique No. 4, Op. 102 (1852) [ilyTv978X6w].mp4"
+        },
+        {
+            "id": "Nv2GgV34qIg",
+            "name": "Bill Evans \uff02Peace Piece\uff02 [Nv2GgV34qIg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Bill Evans \uff02Peace Piece\uff02 [Nv2GgV34qIg].mp4",
+            "size": 5.745145,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Bill Evans \uff02Peace Piece\uff02 [Nv2GgV34qIg].mp4"
+        },
+        {
+            "id": "hd4tvTO8MRw",
+            "name": "Amparo Ochoa- Maldicion de Malinche [hd4tvTO8MRw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Amparo Ochoa- Maldicion de Malinche [hd4tvTO8MRw].mp4",
+            "size": 17.079294,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Amparo Ochoa- Maldicion de Malinche [hd4tvTO8MRw].mp4"
+        },
+        {
+            "id": "eANTTBvIXmI",
+            "name": "Jo Jones, a magician on drums, in Caravan [eANTTBvIXmI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Jo Jones, a magician on drums, in Caravan [eANTTBvIXmI].mp4",
+            "size": 10.855217,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Jo Jones, a magician on drums, in Caravan [eANTTBvIXmI].mp4"
+        },
+        {
+            "id": "-TOAp0vyQVQ",
+            "name": "Joey DeFrancesco - Where Were You\uff1f (1990) {Full Album} [-TOAp0vyQVQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/k5/videos/Joey DeFrancesco - Where Were You\uff1f (1990) {Full Album} [-TOAp0vyQVQ].mp4",
+            "size": 84.49633299999999,
+            "url": "https://github.com/circuitalmynds/music_k5/raw/main/videos/Joey DeFrancesco - Where Were You\uff1f (1990) {Full Album} [-TOAp0vyQVQ].mp4"
+        }
+    ],
+    "total_size": 849.462988
 }
